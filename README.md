@@ -23,7 +23,7 @@
 <!-- End of About Me -->
 ---
 ![Myat Thu Ko's github stats](https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark)
 
 [website]: https://myatthuko.com
 [twitter]: https://twitter.com/myatthu_ko
