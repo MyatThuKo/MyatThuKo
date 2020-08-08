@@ -1,18 +1,15 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 
-## Computer Science Student 
-## Software developer intern at Codeucate
-## New York, NY
-## Junior in City College of New York, CUNY
+<p align="center">
+<a href="myatthuko.com" target="_blank"> [Portfolio][website] </a>
+</p>
 
-# `r fa("r-project", fill = "steelblue")` Header 1
-
+### About Me
 - 🎒 Borough of Manhattan Community College, Class of 2019
 - 🎒 City College of New York, Class of 2022
-- 💼 2020 Goal: Improve both my tech skills and soft skills
+- 💼 Software developer intern at Codeucate
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning React, SwiftUI
-- 📫 How to reach me: [website]
 - ⚡ Fun fact: I love eating fruits especially watermelons during summer 🍉
 
 <br />
