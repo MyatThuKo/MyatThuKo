@@ -3,7 +3,7 @@
 <p align="center">
 <a href="myatthuko.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="30"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="30"/>
 </a>&nbsp;&nbsp;
