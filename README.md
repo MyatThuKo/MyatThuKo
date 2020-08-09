@@ -1,13 +1,13 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 
 <p align="center">
-<a href="myatthuko.com" target="_blank"> 
+<a href="https://myatthuko.com/" target="_blank" rel=”noopener noreferrer”> 
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="30"/>
 </a>&nbsp;&nbsp;
-<a href="" target="_blank"> 
+<a href="https://www.linkedin.com/in/myat-thu-ko-089938178/" target="_blank" rel=”noopener noreferrer”> 
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="30"/>
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/myatthu_ko" target="_blank">
+<a href="https://twitter.com/myatthu_ko" target="_blank" rel=”noopener noreferrer”>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" alt="Twitter" height="30"/>
 </a>&nbsp;&nbsp;
 </p>
