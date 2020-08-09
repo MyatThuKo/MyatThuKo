@@ -1,12 +1,14 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 
 <p align="center">
-<a href="myatthuko.com" target="_blank"> Portfolio </a>
+<a href="myatthuko.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="30"/>
+</a>
 <a href="" target="_blank"> 
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="30"/>
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/myatthu_ko" target="_blank">
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" alt="Twitter" height="30"/>
 </a>&nbsp;&nbsp;
 </p>
 
