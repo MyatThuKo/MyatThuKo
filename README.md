@@ -2,13 +2,13 @@
 
 <p align="center">
 <a href="https://myatthuko.com/" target="_blank" rel=”noopener noreferrer”> 
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/myat-thu-ko-089938178/" target="_blank" rel=”noopener noreferrer”> 
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/myatthu_ko" target="_blank" rel=”noopener noreferrer”>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" alt="Twitter" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" alt="Twitter" height="40"/>
 </a>&nbsp;&nbsp;
 </p>
 
@@ -26,13 +26,13 @@
 
 ### Programming Languages 
 <div>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="30" width="10"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
 </div>
 
 ---
