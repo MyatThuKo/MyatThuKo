@@ -39,9 +39,10 @@
 </div>
 
 ### Other Techs
+<div>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/firebase.png?raw=true" alt="Firebase" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/aws.png?raw=true" alt="AWS" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-
+</div>
 ---
 ![Myat Thu Ko's github stats](https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark)
