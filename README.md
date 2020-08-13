@@ -26,13 +26,13 @@
 
 ### Programming Languages 
 <div>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; height: 30; width: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
 </div>
 
 ---
