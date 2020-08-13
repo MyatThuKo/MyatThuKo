@@ -23,6 +23,16 @@
 - ⚡ Fun fact: I love eating fruits especially watermelons during summer 🍉
 
 <!-- End of About Me -->
+
+### Programming Languages 
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" height="30"/>
+
 ---
 ![Myat Thu Ko's github stats](https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark)
