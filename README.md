@@ -26,7 +26,7 @@
 
 ### Programming Languages 
 <div>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" height="30"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left; width: 30%; height: 30; margin-right: 1%; margin-bottom: 0.5em;"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/SwiftUI.jpeg?raw=true" alt="SwiftUI" height="30"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/webDev.png?raw=true" alt="Web" height="30"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" height="30"/>
