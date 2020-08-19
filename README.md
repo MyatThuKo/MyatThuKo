@@ -12,7 +12,9 @@
 </a>&nbsp;&nbsp;
 </p> -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" />
+  <a href="https://www.myatthuko.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" />
+  </a>
 </div>
 
 <!-- End of Social Links -->
