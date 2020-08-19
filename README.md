@@ -1,8 +1,8 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://myatthuko.com/" target="_blank" rel=”noopener noreferrer”> 
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/MTK.png?raw=true" alt="Portfolio Logo" height="40"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/profilepic.jpg?raw=true" alt="Portfolio Logo" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/myat-thu-ko-089938178/" target="_blank" rel=”noopener noreferrer”> 
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/linkedin.png?raw=true" alt="LinkedIn" height="40"/>
@@ -10,7 +10,10 @@
 <a href="https://twitter.com/myatthu_ko" target="_blank" rel=”noopener noreferrer”>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/twitter.png?raw=true" alt="Twitter" height="40"/>
 </a>&nbsp;&nbsp;
-</p>
+</p> -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/qrcode.png?raw=true" alt="Portfolio QRCode" height="150" width="150" />
+</div>
 
 <!-- End of Social Links -->
 
