@@ -12,7 +12,7 @@
 </a>&nbsp;&nbsp;
 </p> -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" />
+  <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" /> <br />
   Scan the above QR Code or <a href="https://www.myatthuko.com" target="_blank" rel="noopener noreferrer">Click Here</a>.
 </div>
 
