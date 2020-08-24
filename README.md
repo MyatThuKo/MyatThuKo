@@ -12,9 +12,8 @@
 </a>&nbsp;&nbsp;
 </p> -->
 <div align="center">
-  <a href="https://www.myatthuko.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="450" width="450" />
+  Scan the above QR Code or <a href="https://www.myatthuko.com" target="_blank" rel="noopener noreferrer">Click Here</a>.
 </div>
 
 <!-- End of Social Links -->
