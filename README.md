@@ -35,17 +35,17 @@
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/HTML.png?raw=true" alt="HTML" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/CSS.jpg?raw=true" alt="CSS" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/JS.png?raw=true" alt="JS" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<!-- <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/android.png?raw=true" alt="Android" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/> -->
+<!-- <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/java.jpeg?raw=true" alt="Java" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/> -->
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/python.jpeg?raw=true" alt="Python" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<!-- <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/swift.jpeg?raw=true" alt="Swift" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/> -->
 </div>
 
-### Other Techs
+### Frameworks
 <div>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/firebase.png?raw=true" alt="Firebase" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
-<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/aws.png?raw=true" alt="AWS" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/react.png?raw=true" alt="React" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
+<!-- <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/aws.png?raw=true" alt="AWS" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/> -->
 </div>
 
 ---
