@@ -28,6 +28,9 @@
 
 <!-- End of About Me -->
 
+### Certificate 
+- Crash Course on Python <a href="https://coursera.org/share/6344d6059e457649bd55f19744ea8fd3" target="_blank"> (See Certificate) </a>
+
 ### Programming Languages 
 <div>
 <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/languages/C%2B%2B.png?raw=true" alt="CPP" style="float: left margin-right: 1%; margin-bottom: 0.5em;" height="50" width="50"/>
