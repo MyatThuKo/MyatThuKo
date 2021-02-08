@@ -1,7 +1,8 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MyatThuKo/MyatThuKo/master/icons/nfqrcode.png?raw=true" alt="Portfolio QRCode" height="400" width="450" /> <br />
-  Scan the above QR Code or <a href="https://www.myatthuko.com" target="_blank" rel="noopener noreferrer">Click Here</a>.
+  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/> </a>  
+  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
+  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> 
 </div>
 
 <!-- End of Social Links -->
@@ -48,6 +49,3 @@
 ![Myat Thu Ko's github stats](https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark)
 
-[website]: https://myatthuko.com
-[twitter]: https://twitter.com/myatthu_ko
-[LinkedIn]: https://www.linkedin.com/in/myat-thu-ko-089938178/
