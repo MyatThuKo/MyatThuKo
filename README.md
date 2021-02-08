@@ -1,9 +1,13 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 <div align="center">
-  <img src="https://img.icons8.com/color/600/000000/myanmar.png"/>
-  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/dusk/64/000000/domain.png"/> </a>  
-  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
-  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> 
+  <img src="https://img.icons8.com/color/600/000000/myanmar.png" alt="Myanmar"/>
+  <br/>
+</div>
+
+<div align="center">
+  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/dusk/64/000000/domain.png" alt="Website"/> </a>  
+  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter"/></a> 
+  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a> 
 </div>
 
 <!-- End of Social Links -->
