@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/dusk/64/000000/domain.png" alt="Website"/> </a>  
   <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter"/></a> 
-  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a> 
+  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/⚽️cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a> 
 </div>
 
 <!-- End of Social Links -->
@@ -17,11 +17,13 @@
 - 💼 MLH Fellow (Explorer Track)
 - 🔭 I’m currently expanding the knowledge on mobile application development in iOS
 - 🌱 I’m currently learning React, SwiftUI, Swift (Storyboard) 
+- ⚽ Favorite Football (Soccer) Club - Manchester United <img src="https://img.icons8.com/color/24/000000/manchester-united-fc.png"/>
+
+#### Spoken Language 
+- Burmese (Native) <img src="https://img.icons8.com/color/48/000000/myanmar-circular.png" alt="Myanmar"/>
+- English (Fluent) <img src="https://img.icons8.com/color/48/000000/usa-circular.png" alt="English"/>
 
 <!-- End of About Me -->
-
-### Certificate 
-- Crash Course on Python <a href="https://coursera.org/share/6344d6059e457649bd55f19744ea8fd3" target="_blank"> (See Certificate) </a>
 
 ### Programming Languages 
 #### Intermediate 
@@ -43,10 +45,10 @@
 
 ### Hobbies
 <div> 
-  <img src="https://img.icons8.com/android/48/fa314a/football2.png" alt="Soccer"/>
-  <img src="https://img.icons8.com/cotton/64/000000/basketball--v1.png" alt="basketball"/>
-  <img src="https://img.icons8.com/color/64/000000/badminton.png" alt="badminton"/>
-  <img src="https://img.icons8.com/emoji/64/fa314a/man-swimming.png" alt="swimming"/>
+  <img src="https://img.icons8.com/dusk/64/000000/football.png" alt="Soccer"/>
+  <img src="https://img.icons8.com/color/64/000000/basketball-2.png" alt="basketball"/>
+  <img src="https://img.icons8.com/color/64/000000/badminton-2.png" alt="badminton"/>
+  <img src="https://img.icons8.com/officel/64/000000/swimming.png" alt="swimming"/>
   <img src="https://img.icons8.com/color/64/000000/guru.png" alt="meditation"/>
   
 ---
