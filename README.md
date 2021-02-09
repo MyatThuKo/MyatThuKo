@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/dusk/64/000000/domain.png" alt="Website"/> </a>  
-  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter"/></a> 
-  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"/></a> 
+  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/clouds/64/000000/domain.png" alt="Website"/> </a>  
+  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/clouds/64/000000/twitter.png" alt="Twitter"/></a> 
+  <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/clouds/64/000000/linkedin.png" alt="LinkedIn"/></a> 
 </div>
 
 <!-- End of Social Links -->
