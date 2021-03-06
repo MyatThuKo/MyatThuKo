@@ -11,7 +11,7 @@
 
 <!-- End of Social Links -->
 
-### About Me
+### About Me 🙋‍♂️
 - 🎒 Borough of Manhattan Community College, Class of 2019
 - 🎒 City College of New York, Class of 2022
 - 💼 MLH Fellow (Explorer Track)
@@ -19,13 +19,13 @@
 - 🌱 I’m currently learning React, SwiftUI, Swift (Storyboard) 
 - ⚽ Favorite Football (Soccer) Club - Manchester United <img src="https://img.icons8.com/color/24/000000/manchester-united-fc.png"/>
 
-#### Spoken Language 
+#### Spoken Language 💬
 - Burmese (Native) <img src="https://img.icons8.com/color/48/000000/myanmar-circular.png" alt="Myanmar"/>
 - English (Fluent) <img src="https://img.icons8.com/color/48/000000/usa-circular.png" alt="English"/>
 
 <!-- End of About Me -->
 
-### Programming Languages 
+### Programming Languages 💻
 #### Intermediate 
   <div> 
   <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++"/> 
