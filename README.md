@@ -15,8 +15,8 @@
 - 🎒 Borough of Manhattan Community College, Class of 2019
 - 🎒 City College of New York, Class of 2022
 - 💼 MLH Fellow (Explorer Track)
-- 🔭 I’m currently expanding the knowledge on mobile application development in iOS
-- 🌱 I’m currently learning React, SwiftUI, Swift (Storyboard) 
+- 💻 Currently learning iOS Development
+- 🔭 Currently exploring SwiftUI
 - ⚽ Favorite Football (Soccer) Club - Manchester United <img src="https://img.icons8.com/color/24/000000/manchester-united-fc.png"/>
 
 #### Spoken Language 💬
@@ -25,7 +25,7 @@
 
 <!-- End of About Me -->
 
-### Programming Languages 💻
+### Programming Languages 🧬 👨🏻‍💻
 #### Intermediate 
   <div> 
   <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++"/> 
