@@ -25,22 +25,35 @@
 
 <!-- End of About Me -->
 
-### Programming Languages 🧬 👨🏻‍💻
-#### Intermediate 
-  <div> 
-  <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++"/> 
-  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python"/> 
-  <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI"/>  
-  <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift"/> 
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5"/>
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3"/>
-  </div> 
-  
-#### Framework
-  <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React"/>
-  
-#### Database
-  <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase"/>
+<div style="display: flex; flex-direction: row; align-content: space-between;">
+            <div style="display: flex; flex-direction: column;">
+                <h4 style="text-align: center;">Programming Languages </h4>
+                <div style="display:flex">
+                    <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
+                    <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
+                    <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
+                    <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
+                    <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
+                </div>
+            </div>
+  &nbsp;&nbsp;&nbsp;
+            <div style="display: flex; flex-direction: column;">
+                <h4 style="text-align: center;">Framework</h4>
+                <div style="display:flex">
+                    <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React" />
+                    <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI" />
+                </div>
+            </div>
+            &nbsp;&nbsp;&nbsp;
+            <div style="display: flex; flex-direction: column;">
+                <h4 style="text-align: center;">Database</h4>
+                <div style="display:flex">
+                    <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
+                    <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" />
+                </div>
+            </div>
+        </div>
+
 <!-- End of Technical Skills --> 
 
 ### Hobbies
