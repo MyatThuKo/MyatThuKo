@@ -1,10 +1,10 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
-<div style="display: flex; align-items: center";>
+<div align="center" style="display: flex">
   <img src="https://img.icons8.com/color/600/000000/myanmar.png" alt="Myanmar" width="250" height="250"/>
   <img src="https://i.imgur.com/HMGua3z.gif" alt="icon" width="250" height="250"/>
 </div>
 
-<div style="display: flex; align-items: center">
+<div align="center" style="display: flex;">
   <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/clouds/100/000000/domain.png" alt="Website"/> </a>  
   <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter"/></a> 
   <a href="https://www.linkedin.com/in/myat-thu-k-089938178/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn"/></a> 
