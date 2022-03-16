@@ -1,7 +1,6 @@
 ### Welcome to my GitHub Page! Hope you enjoy your visit 🙏
 <div align="center" style="display: flex">
   <img src="https://img.icons8.com/color/600/000000/myanmar.png" alt="Myanmar" width="250" height="250"/>
-  <img src="https://i.imgur.com/HMGua3z.gif" alt="icon" width="250" height="250"/>
 </div>
 
 <div align="center" style="display: flex;">
@@ -14,10 +13,10 @@
 
 ### About Me 🙋‍♂️
 - 🎒 Borough of Manhattan Community College, Class of 2019
-- 🎒 City College of New York, Class of 2022
+- 🎒 City College of New York, Class of 2023
 - 💼 MLH Fellow (Explorer Track)
-- 💻 Currently learning iOS Development
-- 🔭 Currently exploring SwiftUI
+- 👨‍💻 Hanko Academy (iOS - Programatic Swift)
+- 💻 100 Days of SwiftUI
 - ⚽ Favorite Football (Soccer) Club - Manchester United <img src="https://img.icons8.com/color/24/000000/manchester-united-fc.png"/>
 
 #### Spoken Language 💬
@@ -30,11 +29,11 @@
             <div style="display: flex; flex-direction: column;">
                 <h4 style="text-align: center;">Programming Languages </h4>
                 <div style="display:flex">
-                    <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
-                    <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
                     <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
+                    <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
                     <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
                     <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
+                    <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
                 </div>
             </div>
   &nbsp;&nbsp;&nbsp;
