@@ -1,8 +1,8 @@
 <div align="center" style="display: flex;">
   <h2> Hi, welcome! I'm Tony! </h1>
-  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/clouds/100/000000/domain.png" alt="Website"/> </a>  
-  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter"/></a> 
-  <a href="https://www.linkedin.com/in/myatthuko13/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn"/></a> 
+  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/fluency/50/000000/domain.png" alt="Website"/> </a>  
+  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/fluency/50/000000/twitter.png" alt="Twitter"/></a> 
+  <a href="https://www.linkedin.com/in/myatthuko13/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="LinkedIn"/></a> 
 </div>
 
 <!-- End of Social Links -->
