@@ -8,11 +8,9 @@
 <!-- End of Social Links -->
 
 ### About Me 🙋‍♂️
-- 💼 Mobile Engineering Intern - iOS at M1 Finance
-- 👨‍💻 Hanko Academy & CodePath Alumni
-- 🎒 City College of New York, Class of 2023
-- 🎒 Borough of Manhattan Community College, Class of 2019
-- 💻 100 Days of SwiftUI
+- 💼 Mobile Engineering Intern - iOS at [M1 Finance](https://m1.com/) (Summer & Fall 2022)
+- 🎒 [The City College of New York](https://www.ccny.cuny.edu/), Class of 2023 || [Borough of Manhattan Community College](https://www.bmcc.cuny.edu/), Class of 2019
+- 👨‍💻 Hanko Academy & CodePath Alumni and 100 Days of SwiftUI
 - ⚽ Favorite Football (Soccer) Club - Manchester United
 
 #### Spoken Language 💬
