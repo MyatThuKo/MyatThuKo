@@ -1,6 +1,5 @@
 <div align="center" style="display: flex;">
   <h2> Hi, welcome! I'm Tony! </h1>
-  <a href="https://www.myatthuko.com"><img src="https://img.icons8.com/fluency/50/000000/domain.png" alt="Website"/> </a>  
   <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/fluency/50/000000/twitter.png" alt="Twitter"/></a> 
   <a href="https://www.linkedin.com/in/myatthuko13/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="LinkedIn"/></a> 
 </div>
@@ -8,7 +7,7 @@
 <!-- End of Social Links -->
 
 ### About Me 🙋‍♂️
-- 💼 Mobile Engineering Intern - iOS at M1 Finance
+- 💼 Mobile Engineering Intern - iOS at M1 Finance (Summer 2022, Fall 2022)
 - 👨‍💻 Hanko Academy & CodePath Alumni
 - 🎒 City College of New York, Class of 2023
 - 🎒 Borough of Manhattan Community College, Class of 2019
@@ -45,7 +44,8 @@
                 <h4 style="text-align: center;">Database</h4>
                 <div style="display:flex">
                     <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
-                    <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" />
+                    <img src="https://img.icons8.com/color/64/000000/graphql.png" alt="GraphQL" />
+                    <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL"/>
                 </div>
             </div>
         </div>
