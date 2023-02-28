@@ -6,9 +6,10 @@
 ## About Me
 
 <div align="center">
+  <h3> Hello! I'm Myat Thu Ko. </h3>
   <ul style="list-style-position: inside; text-align: center;">
     <li> 💼 Mobile Engineering Intern - iOS at M1 Finance </li>
-    <li> 🎒 The City College of New York, Class of 2023 </li>
+    <li> 🎒 CS Major @ The City College of New York </li>
   </ul>
 </div>
 
