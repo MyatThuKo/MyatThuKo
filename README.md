@@ -1,57 +1,66 @@
-<div align="center" style="display: flex;">
-  <h2> Hi, welcome! I'm Tony! </h1>
-  <a href="https://twitter.com/myatthu_ko"><img src="https://img.icons8.com/fluency/50/000000/twitter.png" alt="Twitter"/></a> 
-  <a href="https://www.linkedin.com/in/myatthuko13/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="LinkedIn"/></a> 
+<div align="center">
+  <h3>Gift? Go on, unwrap it!</h3>
+  <img src="https://media.giphy.com/media/3oz8xBkRsgPTnbK1GM/giphy.gif" align="center" style="width: 100%" /> 
+</div>  
+
+## About Me
+
+<div align="center">
+  <ul style="list-style-position: inside; text-align: center;">
+    <li> 💼 Mobile Engineering Intern - iOS at M1 Finance </li>
+    <li> 🎒 The City College of New York, Class of 2023 </li>
+  </ul>
 </div>
 
-<!-- End of Social Links -->
-
-### About Me 🙋‍♂️
-- 💼 Mobile Engineering Intern - iOS at M1 Finance (Summer 2022, Fall 2022)
-- 👨‍💻 Hanko Academy & CodePath Alumni
-- 🎒 City College of New York, Class of 2023
-- 🎒 Borough of Manhattan Community College, Class of 2019
-- 💻 100 Days of SwiftUI
-- ⚽ Favorite Football (Soccer) Club - Manchester United
-
-#### Spoken Language 💬
-- Burmese (Native)
-- English (Fluent)
 
 <!-- End of About Me -->
 
-<div style="display: flex; flex-direction: row; align-content: space-between;">
-            <div style="display: flex; flex-direction: column;">
-                <h4 style="text-align: center;">Programming Languages </h4>
-                <div style="display:flex">
+## My Skill Set  
+<div align="center">
+    <table>
+        <tr>
+            <td valign="top" width="50%">
+                <div align="center">
+                    <h3>Programming Languages</h3>
                     <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
                     <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
                     <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
                     <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
                     <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
                 </div>
-            </div>
-  &nbsp;&nbsp;&nbsp;
-            <div style="display: flex; flex-direction: column;">
-                <h4 style="text-align: center;">Framework</h4>
-                <div style="display:flex">
+            </td>
+            <td valign="top" width="50%">
+                <div align="center">
+                    <h3>Framework & Database</h3>
                     <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React" />
                     <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI" />
-                </div>
-            </div>
-            &nbsp;&nbsp;&nbsp;
-            <div style="display: flex; flex-direction: column;">
-                <h4 style="text-align: center;">Database</h4>
-                <div style="display:flex">
                     <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
                     <img src="https://img.icons8.com/color/64/000000/graphql.png" alt="GraphQL" />
-                    <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL"/>
+                    <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
                 </div>
-            </div>
-        </div>
-
-<!-- End of Technical Skills -->
+            </td>
+        </tr>
+    </table>
+</div>
   
----
-![Myat Thu Ko's github stats](https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark)
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark" /> 
+</div> 
+
+
+## Connect with me  
+<div align="center">
+   <a href="https://github.com/MyatThuKo" target="_blank">
+   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://twitter.com/myatthu_ko" target="_blank">
+   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://linkedin.com/in/MyatThuKo" target="_blank">
+   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+   </a>  
+</div>
