@@ -19,35 +19,38 @@
 
 ## My Skill Set  
 <div align="center">
-    <table>
-      <tr> 
-        <th> Programming Languages </th>
-        <th> Framework </th> 
-        <th> Database </th>
-      </tr> 
-      <tr>
-        <td valign="top" width="50%">
-          <div align="center">
-            <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
-            <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
-            <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
-            <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
-            <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
-          </div>
-        </td>
-        <td valign="top" width="50%">
-          <div align="center">
-            <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React" />
-            <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI" />
-          </div>
-        </td>
-        <td valign="top" width="50%"> 
-          <div align="center">
-            <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
-            <img src="https://img.icons8.com/color/64/000000/graphql.png" alt="GraphQL" />
-            <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
-          </div> 
-        </td> 
+  <table>
+    <tr> 
+      <th> Programming Languages </th>
+      <th> Framework & Database</th> 
+      <th> Tools </th>
+    </tr> 
+    <tr>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
+          <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
+          <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
+          <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
+          <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
+        </div>
+      </td>
+      <td valign="top" width="33%%">
+        <div align="center">
+          <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React" />
+          <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI" />
+          <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
+          <img src="https://img.icons8.com/color/64/000000/graphql.png" alt="GraphQL" />
+          <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
+        </div>
+      </td>
+      <td valign="top" width="33%"> 
+        <div align="center"> 
+          <img src="https://img.icons8.com/color/64/000000/xcode.png" alt="Xcode" />
+          <img src="https://img.icons8.com/ios-filled/64/008CFF/visual-studio.png" alt="Vscode" /> 
+          <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="Figma" />
+        </div> 
+      </td>
     </tr>
   </table>
 </div>
@@ -61,21 +64,22 @@
       <th> GitHub Streak Stats </th>
     </tr>
     <tr> 
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=dark" /> 
+      <td valign="top" width="50%"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=vision-friendly-dark" /> 
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" />
+      <td valign="top" width="50%"> 
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=vision-friendly-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" />
       </td>
     </tr>
   </table>
   <table> 
     <tr>
-      <th> Most Used Languages </th> 
+      <th> Top Languages </th> 
     </tr>
     <tr> 
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&theme=dark" /> 
+      <td valign="top" width="100%"> 
+        <img src=
+             "https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&hide=java&theme=vision-friendly-dark&custom_title=Top%20Languages" /> 
       </td>
     </tr>
   </table>
