@@ -68,7 +68,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=vision-friendly-dark" /> 
       </td>
       <td valign="top" width="50%"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=vision-friendly-dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=vision-friendly-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
       </td>
     </tr>
   </table>
