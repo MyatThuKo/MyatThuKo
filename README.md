@@ -60,26 +60,16 @@
 <div align="center">
   <table> 
     <tr>
-      <th> GitHub Stats </th> 
+      <th> Top Languages </th> 
       <th> GitHub Streak Stats </th>
     </tr>
     <tr> 
       <td valign="top" width="50%"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=MyatThuKo&show_icons=true&count_private=true&theme=vision-friendly-dark" /> 
+        <img src=
+             "https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&hide=java&theme=vision-friendly-dark&custom_title=Top%20Languages" />
       </td>
       <td valign="top" width="50%"> 
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=vision-friendly-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
-      </td>
-    </tr>
-  </table>
-  <table> 
-    <tr>
-      <th> Top Languages </th> 
-    </tr>
-    <tr> 
-      <td valign="top" width="100%"> 
-        <img src=
-             "https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&hide=java&theme=vision-friendly-dark&custom_title=Top%20Languages" /> 
       </td>
     </tr>
   </table>
