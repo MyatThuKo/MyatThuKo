@@ -8,8 +8,8 @@
 <div align="center">
   <h3> Hello! My name is Myat Thu Ko and I am a self-taught iOS developer. </h3>
   <ul style="list-style-position: inside; text-align: center;">
-    <li> 🖥 Current iOS Developer Intern @ <a href="https://home.ibotta.com/" target="_blank">Ibotta</a> </li>
-    <li> 💼 Previous Mobile Engineering Intern - iOS @ <a href="https://m1.com/" target="_blank">M1 Finance</a></li>
+    <li> 🖥 Current iOS Developer (Part-time) @ <a href="https://m1.com/" target="_blank">M1 Finance</a></li>
+    <li> 💼 Previous Mobile Engineering Intern - iOS @ <a href="https://m1.com/" target="_blank">M1 Finance</a> & <a href="https://home.ibotta.com/" target="_blank">Ibotta</a> </li>
     <li> 🎒 CS Major @ The City College of New York </li>
   </ul>
 </div>
