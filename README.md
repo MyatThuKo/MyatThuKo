@@ -5,15 +5,14 @@
 
 ## About Me
 
-<div align="center">
-  <h3> Hello! My name is Myat Thu Ko and I am a self-taught iOS developer. </h3>
+<div align="left">
+  <h3 align="center"> Hello! My name is Myat Thu Ko and I am a self-taught iOS developer. </h3>
   <ul style="list-style-position: inside; text-align: center;">
-    <li> 🖥 Current iOS Developer (Part-time) @ <a href="https://m1.com/" target="_blank">M1 Finance</a></li>
+    <li> 🖥 Current iOS Developer @ <a href="https://m1.com/" target="_blank">M1 Finance</a></li>
     <li> 💼 Previous Mobile Engineering Intern - iOS @ <a href="https://m1.com/" target="_blank">M1 Finance</a> & <a href="https://home.ibotta.com/" target="_blank">Ibotta</a> </li>
     <li> 🎒 CS Major @ The City College of New York </li>
   </ul>
 </div>
-
 
 <!-- End of About Me -->
 
@@ -78,9 +77,6 @@
 
 ## Connect with me  
 <div align="center">
-   <a href="https://twitter.com/myatthu_ko" target="_blank">
-   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-   </a>
    <a href="https://linkedin.com/in/myatthuko13" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
    </a>  
