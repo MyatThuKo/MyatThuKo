@@ -1,8 +1,3 @@
-<div align="center">
-  <h3>Gift? Go on, unwrap it!</h3>
-  <img src="https://media.giphy.com/media/3oz8xBkRsgPTnbK1GM/giphy.gif" align="center" style="width: 100% height: 100px" /> 
-</div>  
-
 ## About Me
 
 <div align="left">
