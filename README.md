@@ -1,79 +1,90 @@
-## About Me
-
-<div align="left">
-  <h3 align="center"> Hello! My name is Myat Thu Ko and I am a self-taught iOS developer. </h3>
-  <ul style="list-style-position: inside; text-align: center;">
-    <li> 🖥 Current iOS Developer @ <a href="https://www.banking.barclaysus.com/" target="_blank">Barclays</a></li>
-    <li> 🖥 Previous iOS Developer @ <a href="https://m1.com/" target="_blank">M1 Finance</a></li>
-    <li> 💼 Previous Mobile Engineering Intern - iOS @ <a href="https://m1.com/" target="_blank">M1 Finance</a> & <a href="https://home.ibotta.com/" target="_blank">Ibotta</a> </li>
-    <li> 🎒 CS Major @ The City College of New York </li>
-  </ul>
-</div>
-
-<!-- End of About Me -->
-
-## My Skill Set  
-<div align="center">
-  <table>
-    <tr> 
-      <th> Programming Languages </th>
-      <th> Framework & Database</th> 
-      <th> Tools </th>
-    </tr> 
-    <tr>
-      <td valign="top" width="33%">
-        <div align="center">
-          <img src="https://img.icons8.com/fluent/64/000000/swift.png" alt="Swift" />
-          <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" />
-          <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML 5" />
-          <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS 3" />
-          <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++" />
-        </div>
-      </td>
-      <td valign="top" width="33%%">
-        <div align="center">
-          <img src="https://img.icons8.com/officel/64/000000/react.png" alt="React" />
-          <img src="https://img.icons8.com/fluent/64/000000/swiftui.png" alt="SwiftUI" />
-          <img src="https://img.icons8.com/color/64/000000/google-firebase-console.png" alt="Firebase" />
-          <img src="https://img.icons8.com/color/64/000000/graphql.png" alt="GraphQL" />
-          <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL" />
-        </div>
-      </td>
-      <td valign="top" width="33%"> 
-        <div align="center"> 
-          <img src="https://img.icons8.com/color/64/000000/xcode.png" alt="Xcode" />
-          <img src="https://img.icons8.com/ios-filled/64/008CFF/visual-studio.png" alt="Vscode" /> 
-          <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="Figma" />
-        </div> 
-      </td>
-    </tr>
-  </table>
-</div>
-  
-## GitHub Stats
+<!-- Custom Banner -->
 
 <div align="center">
-  <table> 
-    <tr>
-      <th> Top Languages </th> 
-      <th> GitHub Streak Stats </th>
-    </tr>
-    <tr> 
-      <td valign="top" width="50%"> 
-        <img src=
-             "https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuKo&layout=compact&hide=java&theme=vision-friendly-dark&custom_title=Top%20Languages" />
-      </td>
-      <td valign="top" width="50%"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MyatThuKo&theme=vision-friendly-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
-      </td>
-    </tr>
-  </table>
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Myat%20Thu%20Ko%20aka%20Tony%20👋&textBg=false&fontSize=40&desc=📱%20iOS%20Engineer%20%7C%20🎮%20FC%2026%20%7C%20🦮%20Dog%20Parent%20&animation=fadeIn&descAlign=50" />
 
+<!-- Typing Effect -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=45&pause=1000&background=FFBD0000&center=true&vCenter=true&width=500&height=50&lines=Develop+iOS+Code;FC+26;Dog+Walks;and+repeat" alt="Typing SVG" />
+</a>
 
-## Connect with me  
-<div align="center">
-   <a href="https://linkedin.com/in/myatthuko13" target="_blank">
-   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-   </a>  
+</br>
+
+<a href="https://github.com/MyatThuKo/Myat-Thu-Ko-Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+</a>
+
 </div>
+
+---
+
+## 💼 Experience Highlights
+
+🔵 **Barclays** — *Software Engineer I (May 2025 – Present)*  
+🚀 Innovation Lab → Prototyped iOS features & architected reusable Swift components  
+
+🟡 **M1 Finance** — *Software Engineer I (Aug 2023 – Oct 2024) · iOS Intern (May 2022 – May 2023)*  
+📱 Migrated UIKit → SwiftUI | 🎨 Redesigned empty-state marketing screens | ⚙️ Automated CI/CD pipelines with GitHub Actions  
+
+🟠 **Ibotta** — *iOS Intern (May 2023 – Aug 2023)*  
+📊 Shipped Earnings 2.0 for 50M+ users | 🧪 A/B tested features with LaunchDarkly | 🚀 Improved scalability & app performance  
+
+
+---
+
+
+## 🛠️ Tech Arsenal
+
+| 🍏 Core iOS | 🧩 iOS Extras | 🌐 Web Development | ⚙️ Others |
+|-------------|--------------|-------------------|--------------------|
+| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![Core Data](https://img.shields.io/badge/Core%20Data-1572B6?style=for-the-badge&logo=apple&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white) | ![Combine](https://img.shields.io/badge/Combine-0D96F6?style=for-the-badge&logo=swift&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| ![UIKit](https://img.shields.io/badge/UIKit-1C1C1E?style=for-the-badge&logo=apple&logoColor=white) | ![XCTest](https://img.shields.io/badge/XCTest-34C759?style=for-the-badge&logo=apple&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white) | ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) | ![SPM](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white) |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |  |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## 📌 Projects
+
+![Under Construction](https://img.shields.io/badge/Under%20Construction-FF3B30?style=for-the-badge&colorA=FF6B6B&colorB=FF3B30)
+
+<img width="500" height="150" alt="pantry-pal" src="https://github.com/user-attachments/assets/e8a4009d-8344-46c1-93ea-89793b8e6560" />
+
+🍏 **Pantry Pal (SwiftUI + Firebase)** 
+
+- Grocery & inventory management app built with **SwiftUI** & **Firebase**
+
+---
+
+## 🌱 Currently Exploring
+
+- ⚡ Java + Spring Boot
+- 🏗️ iOS 26
+- 🐶 Balancing code with dog walks 🐕
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="mailto:nymyatthuko@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/myatthuko13">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/MyatThuKo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+
+---
+
+<!-- Footer Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</p>
