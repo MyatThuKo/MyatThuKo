@@ -10,7 +10,7 @@
 
 </br>
 
-<a href="https://github.com/MyatThuKo/Myat-Thu-Ko-Resume.pdf">
+<a href="https://github.com/MyatThuKo/MyatThuKo/blob/master/Myat-Thu-Ko-Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 
