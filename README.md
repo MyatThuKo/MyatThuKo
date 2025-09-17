@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=45&pause=1000&background=FFBD0000&center=true&vCenter=true&width=500&height=50&lines=Develop+iOS+Code;FC+26;Dog+Walks;and+repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=45&pause=1000&background=FFBD0000&center=true&vCenter=true&width=500&height=50&lines=Develop+iOS+Code;Play+FC26;Walk+Dog;and+Repeat" alt="Typing SVG" />
 </a>
 
 </br>
