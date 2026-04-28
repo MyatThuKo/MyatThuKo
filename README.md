@@ -9,7 +9,7 @@
 
 </br>
 
-<a href="https://github.com/MyatThuKo/MyatThuKo/blob/master/Myat-Thu-Ko-Resume.pdf">
+<a href="https://drive.google.com/file/d/1DVVJjaQ9ZepGr_k3xeMe1xANWS9YlNOI/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 
